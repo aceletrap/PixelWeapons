@@ -1,2 +1,2 @@
 # PixelWeapons
-Animated Pixel Weapons Made By AceLeTrap
+Animated Pixel Rifles Made By AceLeTrap
