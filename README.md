@@ -1,2 +1,2 @@
 # PixelWeapons
-Animated Pixel SMG Made By AceLeTrap
+Animated Pixel Weapons Made By AceLeTrap
